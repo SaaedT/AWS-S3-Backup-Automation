@@ -77,12 +77,6 @@ This project demonstrates how to automate backups using a Bash script on an AWS 
    ```bash
    git clone https://github.com/SaaedT/AWS-S3-Backup-Automation.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd aws-s3-backup
-   ```
-3. Modify and execute the script as needed.
-
 ---
 
 ## Conclusion
